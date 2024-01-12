@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -156,13 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66a58c0cb75e065e",
+  "active": "80d7bbfc901464ef",
   "lastOpenFiles": [
+    "Welcome.md",
     "README.md",
     "wiz-biz/wiz-biz/README.md",
     "wiz-biz/wiz-biz",
     "wiz-biz",
-    "New folder",
-    "Welcome.md"
+    "New folder"
   ]
 }

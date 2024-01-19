@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore - Basic Sketch.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore - Basic Sketch.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore - Basic Sketch.md"
+                "file": "README.md"
               }
             }
           }
@@ -173,10 +173,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65d5b6b222b3b1f3",
+  "active": "66a58c0cb75e065e",
   "lastOpenFiles": [
-    "README.md",
     "Lore - Basic Sketch.md",
+    "README.md",
     "Welcome.md",
     "wiz-biz/wiz-biz/README.md",
     "wiz-biz/wiz-biz",

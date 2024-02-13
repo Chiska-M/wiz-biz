@@ -45,20 +45,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "174cc381c2c7867f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "66a58c0cb75e065e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2ec7ade3485b3ad7",
@@ -187,8 +174,10 @@
   },
   "active": "3ff133fdb2553662",
   "lastOpenFiles": [
-    "README.md",
+    "Pasted image 20240213154543.png",
+    "Pasted image 20240213154519.png",
     "FACTIONS.md",
+    "README.md",
     "Lore - Basic Sketch.md",
     "Welcome.md",
     "wiz-biz/wiz-biz/README.md",

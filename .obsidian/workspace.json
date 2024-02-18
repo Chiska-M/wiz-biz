@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore - Basic Sketch.md",
+                "file": "FACTIONS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "174cc381c2c7867f",
@@ -44,21 +45,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "13e804ed83f5e6af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FACTIONS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "FACTIONS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "FACTIONS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "FACTIONS.md"
               }
             }
           }
@@ -185,14 +173,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80d7bbfc901464ef",
+  "active": "db4d4c8e26f4f566",
   "lastOpenFiles": [
+    "Lore - Basic Sketch.md",
+    "README.md",
+    "Pasted image 20240213154519.png",
+    "Pasted image 20240213154543.png",
     "FACTIONS.md",
     "conflict-files-obsidian-git.md",
-    "Pasted image 20240213154543.png",
-    "Pasted image 20240213154519.png",
-    "README.md",
-    "Lore - Basic Sketch.md",
     "Welcome.md",
     "wiz-biz/wiz-biz/README.md",
     "wiz-biz/wiz-biz",

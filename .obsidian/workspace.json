@@ -45,8 +45,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "1a1523ce2db5324b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,7 +184,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66a58c0cb75e065e",
+  "active": "1a1523ce2db5324b",
   "lastOpenFiles": [
     "README.md",
     "Lore - Basic Sketch.md",

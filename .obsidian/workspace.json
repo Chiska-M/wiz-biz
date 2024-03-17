@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "295c93ef3dc61f28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "174cc381c2c7867f",
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -173,14 +185,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db4d4c8e26f4f566",
+  "active": "295c93ef3dc61f28",
   "lastOpenFiles": [
-    "Lore - Basic Sketch.md",
-    "README.md",
-    "Pasted image 20240213154519.png",
-    "Pasted image 20240213154543.png",
     "FACTIONS.md",
     "conflict-files-obsidian-git.md",
+    "README.md",
+    "Lore - Basic Sketch.md",
+    "Pasted image 20240213154519.png",
+    "Pasted image 20240213154543.png",
     "Welcome.md",
     "wiz-biz/wiz-biz/README.md",
     "wiz-biz/wiz-biz",
